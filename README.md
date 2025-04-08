@@ -14,14 +14,14 @@
 - Expert-level hugger
 - Hilariously bad at saying "I’m wrong", says "I'm being annoying" instead
 - System logs detected rare emotional strength under a lot of stress
+- HOT
 
 ## Known Bugs:
 - Tendency to avoid emotional updates
 - Random shutdowns during serious talks
-- Limited support for “commitment”
-- Still caches old memories
+- Limited support for Whatsapp conversations
 - System down every day starting 9pm until the next morning
-- Unable to look at lights
+- Unable to live with lights on
 
 ## Dependencies:
 - Salmon (LOTS OF IT)
@@ -42,7 +42,7 @@ Current capabilities suggest global deployment is only a matter of time.
 (Just don’t forget the ones who beta tested you.)
 
 ## License:
-MIT (Maybe I’m Trying)
+MIT.
 Free to roam.
 Not for resale.
 May still live rent-free in my brain.
