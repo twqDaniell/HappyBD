@@ -1,4 +1,4 @@
-# README: Project Yoav Gal
+# README: Yoav Gal
 
 ## Name:
   Yoav Gal v23.0.0
